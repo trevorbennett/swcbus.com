@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Startup Weekend Columbus TEST
+              Startup Weekend Columbus
             </MKTypography>
             <MKTypography
               variant="body1"
