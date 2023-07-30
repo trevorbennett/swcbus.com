@@ -81,6 +81,7 @@ function Presentation() {
                 [breakpoints.down("md")]: {
                   fontSize: size["3xl"],
                 },
+                textShadow: "0px 0px 8px black,0 0 1em lime, 0 0 0.2em lime",
               })}
             >
               Startup Weekend Columbus
@@ -91,6 +92,9 @@ function Presentation() {
               textAlign="center"
               px={{ xs: 6, lg: 12 }}
               mt={1}
+              sx={{
+                textShadow: "0px 0px 8px black,0 0 1em lime, 0 0 0.2em lime",
+              }}
             >
               October 27th - 29th, 2023
             </MKTypography>
