@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/material-kit-react/static/js/main.0c56405b.js",
+    "static/media/rotating-card-bg-front.jpeg": "/material-kit-react/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
+    "static/media/bg-presentation.jpg": "/material-kit-react/static/media/bg-presentation.b96086a589ffa3d9a6cc.jpg",
+    "static/media/macbook.png": "/material-kit-react/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
+    "static/media/bg-coworking.jpeg": "/material-kit-react/static/media/bg-coworking.06bccc47fe6ae5366bf8.jpeg",
+    "static/media/bg-sign-in-basic.jpeg": "/material-kit-react/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "static/media/city-profile.jpg": "/material-kit-react/static/media/city-profile.4d64bba97c3d1757379e.jpg",
+    "static/media/rotating-card-bg-back.jpeg": "/material-kit-react/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
+    "static/media/blog-9-4.jpg": "/material-kit-react/static/media/blog-9-4.de736e0b751f453415a5.jpg",
+    "static/media/illustration-reset.jpg": "/material-kit-react/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
+    "static/media/waves-white.svg": "/material-kit-react/static/media/waves-white.dcb2ce8579b019d0f73a64c138dae945.svg",
+    "static/media/blog2.jpg": "/material-kit-react/static/media/blog2.aba7a3cb94805e9557d1.jpg",
+    "static/media/bg-about-us.jpg": "/material-kit-react/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
+    "static/media/testimonial-6-2.jpg": "/material-kit-react/static/media/testimonial-6-2.21f2048f0b89919090f0.jpg",
+    "static/media/testimonial-6-3.jpg": "/material-kit-react/static/media/testimonial-6-3.d35bef0d65354442d063.jpg",
+    "static/media/team-1.jpg": "/material-kit-react/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/bruce-mars.jpg": "/material-kit-react/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/team-5.jpg": "/material-kit-react/static/media/team-5.d59ab7b9f95f1169cf83.jpg",
+    "static/media/team-2.jpg": "/material-kit-react/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/material-kit-react/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/ivana-square.jpg": "/material-kit-react/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
+    "static/media/ivana-squares.jpg": "/material-kit-react/static/media/ivana-squares.3c555b856b04c2ab921b.jpg",
+    "static/media/team-4.jpg": "/material-kit-react/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/logo-digitalocean.svg": "/material-kit-react/static/media/logo-digitalocean.2a34c59e2d333aeeaef95fd474297765.svg",
+    "static/media/logo-pinterest.svg": "/material-kit-react/static/media/logo-pinterest.79835f813a45dcaf7b7f09c9e5d6f768.svg",
+    "static/media/logo-vodafone.svg": "/material-kit-react/static/media/logo-vodafone.64bd2eee2378660390ef68598cd9220c.svg",
+    "static/media/logo-spotify.svg": "/material-kit-react/static/media/logo-spotify.64b875da4a310812bc2a8793cbd5d334.svg",
+    "static/media/logo-facebook.svg": "/material-kit-react/static/media/logo-facebook.628f2a8a471009dffecd3ea2745e37b0.svg",
+    "static/media/logo-coinbase.svg": "/material-kit-react/static/media/logo-coinbase.97dccf42a428602b2137b660528aa00f.svg",
+    "static/media/logo-apple.svg": "/material-kit-react/static/media/logo-apple.1098fa39e472270297c7c8a2dce460ad.svg",
+    "static/media/logo-nasa.svg": "/material-kit-react/static/media/logo-nasa.b4e79ad93e48f27643c48621609ba18b.svg",
+    "static/media/logo-netflix.svg": "/material-kit-react/static/media/logo-netflix.41468e1be7ec61f28c77c2d4da86083e.svg",
+    "index.html": "/material-kit-react/index.html",
+    "main.0c56405b.js.map": "/material-kit-react/static/js/main.0c56405b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0c56405b.js"
+  ]
+}
