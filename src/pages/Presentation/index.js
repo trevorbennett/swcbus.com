@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              Startup Weekend Columbus{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -92,8 +92,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Free & Open Source Web UI Kit built over ReactJS &amp; MUI. Join over 1.6 million
-              developers around the world.
+              October 27th - 29th, 2023
             </MKTypography>
           </Grid>
         </Container>
