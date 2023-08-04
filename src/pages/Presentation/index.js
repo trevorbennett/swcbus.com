@@ -113,13 +113,13 @@ function Presentation() {
         }}
       >
         <Counters />
-        <Information />
-        <DesignBlocks />
-        <Pages />
-        <Container sx={{ mt: 6 }}>
+        {/* <Information /> */}
+        {/* <DesignBlocks /> */}
+        {/* <Pages /> */}
+        {/* <Container sx={{ mt: 6 }}>
           <BuiltByDevelopers />
-        </Container>
-        <Container>
+        </Container> */}
+        {/* <Container>
           <Grid container spacing={3}>
             <Grid item xs={12} lg={4}>
               <FilledInfoCard
@@ -163,18 +163,18 @@ function Presentation() {
             </Grid>
           </Grid>
         </Container>
-        <Testimonials />
+        <Testimonials /> */}
         <Download />
         <MKBox pt={18} pb={6}>
           <Container>
             <Grid container spacing={3}>
               <Grid item xs={12} lg={5} ml="auto" sx={{ textAlign: { xs: "center", lg: "left" } }}>
-                <MKTypography variant="h4" fontWeight="bold" mb={0.5}>
+                {/* <MKTypography variant="h4" fontWeight="bold" mb={0.5}>
                   Thank you for your support!
                 </MKTypography>
                 <MKTypography variant="body1" color="text">
                   We deliver the best web products
-                </MKTypography>
+                </MKTypography> */}
               </Grid>
               <Grid
                 item

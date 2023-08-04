@@ -50,25 +50,21 @@ function Download() {
         <Container sx={{ position: "relative", zIndex: 2, py: 12 }}>
           <Grid container item xs={12} md={7} justifyContent="center" mx="auto" textAlign="center">
             <MKTypography variant="h3" color="white">
-              Do you love this awesome
-            </MKTypography>
-            <MKTypography variant="h3" color="white" mb={1}>
-              UI Kit for ReactJS &amp; MUI?
+              Ready to join us?
             </MKTypography>
             <MKTypography variant="body2" color="white" mb={6}>
-              Cause if you do, it can be yours for FREE. Hit the button below to navigate to
-              Creative Tim where you can find the Design System in HTML. Start a new project or give
-              an old Bootstrap project a new look!
+              If you are, hit the button below to navigate to
+              EventBrite where you can find tickets available now!
             </MKTypography>
             <MKButton
               variant="gradient"
-              color="info"
+              color="success"
               size="large"
               component="a"
               href="https://www.creative-tim.com/product/material-kit-react"
               sx={{ mb: 2 }}
             >
-              Download Now
+              Get Tickets
             </MKButton>
           </Grid>
         </Container>
