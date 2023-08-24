@@ -53,7 +53,7 @@ function Presentation() {
         routes={routes}
         action={{
           type: "external",
-          route: "https://www.creative-tim.com/product/material-kit-react",
+          route: "https://www.eventbrite.com/e/startup-weekend-columbus-fall-2023-tickets-684909772567?aff=oddtdtcreator",
           label: "Get Tickets",
           color: "success",
         }}
@@ -186,7 +186,7 @@ function Presentation() {
               >
                 <MKSocialButton
                   component="a"
-                  href="https://twitter.com/intent/tweet?text=Check%20Material%20Design%20System%20made%20by%20%40CreativeTim%20%23webdesign%20%23designsystem%20%23mui5&amp;url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-kit-react"
+                  href="https://twitter.com/swcolumbus"
                   target="_blank"
                   color="twitter"
                   sx={{ mr: 1 }}
@@ -196,7 +196,7 @@ function Presentation() {
                 </MKSocialButton>
                 <MKSocialButton
                   component="a"
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/material-kit-react"
+                  href="https://www.facebook.com/ColumbusStartupWeekend"
                   target="_blank"
                   color="facebook"
                   sx={{ mr: 1 }}
@@ -206,12 +206,12 @@ function Presentation() {
                 </MKSocialButton>
                 <MKSocialButton
                   component="a"
-                  href="https://www.pinterest.com/pin/create/button/?url=https://www.creative-tim.com/product/material-kit-react"
+                  href="https://www.instagram.com/swcolumbus/"
                   target="_blank"
-                  color="pinterest"
+                  color="instagram"
                 >
-                  <i className="fab fa-pinterest" />
-                  &nbsp;Pin it
+                  <i className="fab fa-instagram" />
+                  &nbsp;Post to Insta
                 </MKSocialButton>
               </Grid>
             </Grid>

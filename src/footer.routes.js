@@ -21,7 +21,7 @@ export default {
   socials: [
     {
       icon: <FacebookIcon />,
-      link: "https://www.facebook.com/CreativeTim/",
+      link: "https://www.facebook.com/ColumbusStartupWeekend/",
     },
     {
       icon: <TwitterIcon />,
@@ -74,7 +74,7 @@ export default {
   ],
   copyright: (
     <MKTypography variant="button" fontWeight="regular">
-      All rights reserved. Copyright &copy; {date} Material Kit by{" "}
+      All rights reserved. Copyright &copy; {date} by
       <MKTypography
         component="a"
         href="https://www.creative-tim.com"
@@ -83,9 +83,8 @@ export default {
         variant="button"
         fontWeight="regular"
       >
-        Creative Tim
+        {" "}Startup Weekend Columbus
       </MKTypography>
-      .
     </MKTypography>
   ),
 };

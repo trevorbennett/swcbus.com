@@ -53,15 +53,15 @@ function Download() {
               Ready to join us?
             </MKTypography>
             <MKTypography variant="body2" color="white" mb={6}>
-              If you are, hit the button below to navigate to
-              EventBrite where you can find tickets available now!
+              If you are, hit the button below to navigate to EventBrite where you can find tickets
+              available now!
             </MKTypography>
             <MKButton
               variant="gradient"
               color="success"
               size="large"
               component="a"
-              href="https://www.creative-tim.com/product/material-kit-react"
+              href="https://www.eventbrite.com/e/startup-weekend-columbus-fall-2023-tickets-684909772567?aff=oddtdtcreator"
               sx={{ mb: 2 }}
             >
               Get Tickets
@@ -69,11 +69,11 @@ function Download() {
           </Grid>
         </Container>
       </MKBox>
-      <Container>
-        <Grid container item xs={6} mx="auto">
+      {/* <Container> */}
+        {/* <Grid container item xs={6} mx="auto">
           <MKBox textAlign="center">
             <MKTypography variant="h3" mt={6} mb={3}>
-              Available on these technologies
+              Sponsors
             </MKTypography>
             <Grid container spacing={3} justifyContent="center">
               <Grid item xs={4} lg={2}>
@@ -175,9 +175,9 @@ function Download() {
                 </Tooltip>
               </Grid>
             </Grid>
-          </MKBox>
-        </Grid>
-      </Container>
+          </MKBox> */}
+        {/* </Grid> */}
+      {/* </Container> */}
     </MKBox>
   );
 }

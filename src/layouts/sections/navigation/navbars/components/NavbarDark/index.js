@@ -30,7 +30,7 @@ function NavbarDark() {
         routes={routes}
         action={{
           type: "external",
-          route: "https://www.creative-tim.com/product/material-kit-react",
+          route: "https://www.eventbrite.com/e/startup-weekend-columbus-fall-2023-tickets-684909772567?aff=oddtdtcreator",
           label: "Get Tickets",
           color: "success",
         }}
