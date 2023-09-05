@@ -31,12 +31,15 @@ import facebookLogo from "assets/images/logos/gray-logos/logo-facebook.svg";
 import nasaLogo from "assets/images/logos/gray-logos/logo-nasa.svg";
 import vodafoneLogo from "assets/images/logos/gray-logos/logo-vodafone.svg";
 import digitalOceanLogo from "assets/images/logos/gray-logos/logo-digitalocean.svg";
-
+import iccLogo from "assets/images/logos/sponsors/ICC_logo.png";
+import googleLogo from "assets/images/logos/sponsors/google-for-startups.webp";
+import godaddyLogo from "assets/images/logos/sponsors/godaddy.webp";
+import brexLogo from "assets/images/logos/sponsors/brex.png";
 function Information() {
   return (
-    <MKBox component="section" py={12}>
+    <MKBox sx={{padding:0}} component="section" py={12}>
       <Container>
-        <Grid
+        {/* <Grid
           container
           item
           xs={12}
@@ -80,29 +83,33 @@ function Information() {
             />
           </Grid>
         </Grid>
-        <Divider sx={{ my: 6 }} />
+        <Divider sx={{ my: 6 }} /> */}
+        <h2 style={{ textAlign: "center" }}>Sponsors</h2>
+        <Grid container sx={{paddingBottom: "2rem", paddingTop: "2rem"}} spacing={3} justifyContent="center">
+          <Grid item xs={8} md={6} lg={4}>
+            <MKBox component="img" src={iccLogo} alt="Apple" width="100%" opacity={0.6} />
+          </Grid>
+        </Grid>
+
         <Grid container spacing={3} justifyContent="center">
           <Grid item xs={6} md={4} lg={2}>
-            <MKBox component="img" src={appleLogo} alt="Apple" width="100%" opacity={0.6} />
+            <MKBox component="img" src={googleLogo} alt="Facebook" width="100%" opacity={0.6} />
           </Grid>
           <Grid item xs={6} md={4} lg={2}>
-            <MKBox component="img" src={facebookLogo} alt="Facebook" width="100%" opacity={0.6} />
+            <MKBox component="img" src={godaddyLogo} alt="Nasa" width="100%" opacity={0.6} />
           </Grid>
           <Grid item xs={6} md={4} lg={2}>
-            <MKBox component="img" src={nasaLogo} alt="Nasa" width="100%" opacity={0.6} />
+            <MKBox component="img" src={brexLogo} alt="Vodafone" width="100%" opacity={0.6} />
           </Grid>
-          <Grid item xs={6} md={4} lg={2}>
-            <MKBox component="img" src={vodafoneLogo} alt="Vodafone" width="100%" opacity={0.6} />
-          </Grid>
-          <Grid item xs={6} md={4} lg={2}>
+          {/* <Grid item xs={6} md={4} lg={2}>
             <MKBox
               component="img"
               src={digitalOceanLogo}
               alt="DigitalOcean"
               width="100%"
               opacity={0.6}
-            />
-          </Grid>
+            /> */}
+          {/* </Grid> */}
         </Grid>
       </Container>
     </MKBox>

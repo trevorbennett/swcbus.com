@@ -162,9 +162,10 @@ function Presentation() {
               />
             </Grid>
           </Grid>
-        </Container>
-        <Testimonials /> */}
+        </Container>  */}
         <Download />
+        <Testimonials /> 
+
         <MKBox pt={18} pb={6}>
           <Container>
             <Grid container spacing={3}>
@@ -218,6 +219,7 @@ function Presentation() {
           </Container>
         </MKBox>
       </Card>
+      
       <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter content={footerRoutes} />
       </MKBox>

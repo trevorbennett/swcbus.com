@@ -28,7 +28,7 @@ import bgImage from "assets/images/shapes/waves-white.svg";
 
 function Download() {
   return (
-    <MKBox component="section" py={{ xs: 0, sm: 12 }}>
+    <MKBox component="section" sx={{padding:0}} py={{ xs: 0, sm: 12 }}>
       <MKBox
         variant="gradient"
         bgColor="dark"
