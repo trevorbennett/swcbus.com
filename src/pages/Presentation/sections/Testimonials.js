@@ -35,6 +35,12 @@ import iccLogo from "assets/images/logos/sponsors/ICC_logo.png";
 import googleLogo from "assets/images/logos/sponsors/google-for-startups.webp";
 import godaddyLogo from "assets/images/logos/sponsors/godaddy.webp";
 import brexLogo from "assets/images/logos/sponsors/brex.png";
+import grangeLogo from "assets/images/logos/sponsors/Grange_Insurance_logo.png";
+import revelitLogo from "assets/images/logos/sponsors/revelit.png";
+import cultivateLogo from "assets/images/logos/sponsors/cultivate.jpeg";
+import rev1Logo from "assets/images/logos/sponsors/rev1-ventures.png";
+import cohatch from "assets/images/logos/sponsors/COHATCH-LOGO.webp";
+
 function Information() {
   return (
     <MKBox sx={{padding:0}} component="section" py={12}>
@@ -87,11 +93,27 @@ function Information() {
         <h2 style={{ textAlign: "center" }}>Sponsors</h2>
         <Grid container sx={{paddingBottom: "2rem", paddingTop: "2rem"}} spacing={3} justifyContent="center">
           <Grid item xs={8} md={6} lg={4}>
-            <MKBox component="img" src={iccLogo} alt="Apple" width="100%" opacity={0.6} />
+            <MKBox component="img" src={iccLogo} alt="ICC" width="100%" opacity={0.6} />
           </Grid>
         </Grid>
 
         <Grid container spacing={3} justifyContent="center">
+          <Grid item xs={6} md={4} lg={3}>
+            <MKBox component="img" src={rev1Logo} alt="Rev1 Ventures" width="100%" opacity={0.6} />
+          </Grid>
+          <Grid item xs={6} md={4} lg={2}>
+            <MKBox component="img" src={grangeLogo} alt="Grange Insurance" width="100%" opacity={0.6} />
+          </Grid>
+          <Grid item xs={6} md={4} lg={3}>
+            <MKBox component="img" src={revelitLogo} alt="RevelIT" width="100%" opacity={0.6} />
+          </Grid>
+          <Grid item xs={6} md={4} lg={3}>
+            <MKBox component="img" src={cohatch} alt="COHatch" width="100%" opacity={0.6} />
+          </Grid>
+          <Grid item xs={6} md={4} lg={2}>
+            <MKBox component="img" src={cultivateLogo} alt="Cultivate" width="100%" opacity={0.6} />
+          </Grid>
+
           <Grid item xs={6} md={4} lg={2}>
             <MKBox component="img" src={googleLogo} alt="Facebook" width="100%" opacity={0.6} />
           </Grid>
@@ -101,6 +123,7 @@ function Information() {
           <Grid item xs={6} md={4} lg={2}>
             <MKBox component="img" src={brexLogo} alt="Vodafone" width="100%" opacity={0.6} />
           </Grid>
+
           {/* <Grid item xs={6} md={4} lg={2}>
             <MKBox
               component="img"
