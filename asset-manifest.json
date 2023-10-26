@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/swcbus.com/static/js/main.e03d1e3d.js",
+    "main.js": "/swcbus.com/static/js/main.af99afbe.js",
     "static/media/rotating-card-bg-front.jpeg": "/swcbus.com/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-presentation.jpg": "/swcbus.com/static/media/bg-presentation.b96086a589ffa3d9a6cc.jpg",
     "static/media/macbook.png": "/swcbus.com/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
@@ -10,7 +10,7 @@
     "static/media/rotating-card-bg-back.jpeg": "/swcbus.com/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/swcbus.com/static/media/blog-9-4.de736e0b751f453415a5.jpg",
     "static/media/illustration-reset.jpg": "/swcbus.com/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
-    "static/media/waves-white.svg": "/swcbus.com/static/media/waves-white.dcb2ce8579b019d0f73a64c138dae945.svg",
+    "static/media/waves-white.svg": "/swcbus.com/static/media/waves-white.7e7579c6e93ead70064fb4e8dd899f32.svg",
     "static/media/blog2.jpg": "/swcbus.com/static/media/blog2.aba7a3cb94805e9557d1.jpg",
     "static/media/bg-about-us.jpg": "/swcbus.com/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
     "static/media/testimonial-6-2.jpg": "/swcbus.com/static/media/testimonial-6-2.21f2048f0b89919090f0.jpg",
@@ -23,19 +23,19 @@
     "static/media/ivana-square.jpg": "/swcbus.com/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
     "static/media/ivana-squares.jpg": "/swcbus.com/static/media/ivana-squares.3c555b856b04c2ab921b.jpg",
     "static/media/team-4.jpg": "/swcbus.com/static/media/team-4.85c82b6e60178804017f.jpg",
-    "static/media/logo-digitalocean.svg": "/swcbus.com/static/media/logo-digitalocean.2a34c59e2d333aeeaef95fd474297765.svg",
-    "static/media/logo-pinterest.svg": "/swcbus.com/static/media/logo-pinterest.79835f813a45dcaf7b7f09c9e5d6f768.svg",
-    "static/media/logo-vodafone.svg": "/swcbus.com/static/media/logo-vodafone.64bd2eee2378660390ef68598cd9220c.svg",
-    "static/media/logo-spotify.svg": "/swcbus.com/static/media/logo-spotify.64b875da4a310812bc2a8793cbd5d334.svg",
-    "static/media/logo-facebook.svg": "/swcbus.com/static/media/logo-facebook.628f2a8a471009dffecd3ea2745e37b0.svg",
-    "static/media/logo-coinbase.svg": "/swcbus.com/static/media/logo-coinbase.97dccf42a428602b2137b660528aa00f.svg",
-    "static/media/logo-apple.svg": "/swcbus.com/static/media/logo-apple.1098fa39e472270297c7c8a2dce460ad.svg",
-    "static/media/logo-nasa.svg": "/swcbus.com/static/media/logo-nasa.b4e79ad93e48f27643c48621609ba18b.svg",
-    "static/media/logo-netflix.svg": "/swcbus.com/static/media/logo-netflix.41468e1be7ec61f28c77c2d4da86083e.svg",
+    "static/media/logo-digitalocean.svg": "/swcbus.com/static/media/logo-digitalocean.a1f147b01387952368e3180edf221c96.svg",
+    "static/media/logo-pinterest.svg": "/swcbus.com/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
+    "static/media/logo-vodafone.svg": "/swcbus.com/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
+    "static/media/logo-spotify.svg": "/swcbus.com/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
+    "static/media/logo-facebook.svg": "/swcbus.com/static/media/logo-facebook.106d2ac0ece089e3c6def0a36c283ef7.svg",
+    "static/media/logo-coinbase.svg": "/swcbus.com/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
+    "static/media/logo-apple.svg": "/swcbus.com/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
+    "static/media/logo-nasa.svg": "/swcbus.com/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
+    "static/media/logo-netflix.svg": "/swcbus.com/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/swcbus.com/index.html",
-    "main.e03d1e3d.js.map": "/swcbus.com/static/js/main.e03d1e3d.js.map"
+    "main.af99afbe.js.map": "/swcbus.com/static/js/main.af99afbe.js.map"
   },
   "entrypoints": [
-    "static/js/main.e03d1e3d.js"
+    "static/js/main.af99afbe.js"
   ]
 }
